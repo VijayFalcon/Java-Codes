@@ -1,6 +1,6 @@
 package Boolean;
 
-public class Main {
+public class Boolean {
 	public static void main(String[] args)
 	{
 		boolean isJavaFun = true;
