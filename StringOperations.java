@@ -1,6 +1,6 @@
 package StringOperations;
 
-public class Main {
+public class StringOperations {
 	public static void main(String args[])
 	{
 		String firstName = "John";
