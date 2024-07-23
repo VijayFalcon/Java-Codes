@@ -1,6 +1,6 @@
 package ConditionalOperators;
 
-public class Main {
+public class ConditionalOperators {
 	public static void main(String[] args)
 	{
 		int x = 10;
