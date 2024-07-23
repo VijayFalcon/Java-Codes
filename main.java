@@ -2,7 +2,7 @@
 //Variables and final.
 import java.util.Random;
 
-public class Main
+public class main
 {
 public static void main(String args[])
 {
