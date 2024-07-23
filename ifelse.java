@@ -1,6 +1,6 @@
 package ifelse;
 
-public class Main {
+public class ifelse {
 	public static void main(String[] args)
 	{
 		int time =22;
