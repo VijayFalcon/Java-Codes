@@ -11,7 +11,7 @@ class Student
     }
 }
 
-class ConstructorArrays
+class ConstructorArray
 {
     public static void main(String[] args)
     {
